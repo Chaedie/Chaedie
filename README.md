@@ -16,7 +16,9 @@
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaedie_js)](https://solved.ac/chaedie_js/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaedong_im_dev)](https://solved.ac/chaedong_im_dev/)
+
   
   
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" /> -->
