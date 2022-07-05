@@ -20,15 +20,6 @@
 <!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" /> -->  
 </p>
 
-
-<div align="center">
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaedie_js)](https://solved.ac/chaedie_js/) -->
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chaedie_js" />
-</div>
-  
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaedong_im_dev)](https://solved.ac/chaedong_im_dev/) -->
-
 <!-- <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" /> -->
