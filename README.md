@@ -11,5 +11,6 @@
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedong.im.dev@gmail.com)](mailto:chaedong.im.dev@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@im_chaedong)
 
 </div>
