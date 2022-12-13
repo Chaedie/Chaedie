@@ -1,3 +1,15 @@
+<div align="center">
+
+Hi👋 <br/>
+I'm Front-End Web Developer ChaedongIm (Chaedie)
+<br/>
+<br/>
+I started my career as a C++ semiconductor developer.
+<br/>
+Now I'm web front-end developer
+<br/>
+<br/>
+I'm learning "Next.js", "Node.js", "Django"
 
 
 ## 🛠 Tech Stack
@@ -8,15 +20,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white)
 ![REACT.JS](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
-
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedong.im.dev@gmail.com)](mailto:chaedong.im.dev@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@im_chaedong)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaedie&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Chaedie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaedie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
