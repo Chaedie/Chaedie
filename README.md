@@ -9,7 +9,7 @@ I started my career as a C++ semiconductor developer.
 Now I'm web front-end developer
 <br/>
 <br/>
-I'm learning "Next.js", "Node.js", "Django"
+I'm learning "Node.js", "Nest.js"
 
 
 ## 🛠 Tech Stack
