@@ -26,4 +26,8 @@ I'm learning "Node.js", "Nest.js"
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
