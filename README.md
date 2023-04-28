@@ -9,7 +9,7 @@ I started my career as a C++ semiconductor developer.
 Now I'm web front-end developer
 <br/>
 <br/>
-I'm learning "Node.js", "Nest.js"
+I'm learning "Java/Spring"
 
 
 ## 🛠 Tech Stack
@@ -22,9 +22,7 @@ I'm learning "Node.js", "Nest.js"
 ![REACT.JS](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+  
 
 <br/>
 <br/>
