@@ -24,5 +24,8 @@ Now I'm web developer
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaedie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
