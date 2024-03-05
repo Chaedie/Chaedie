@@ -6,7 +6,6 @@ I prefer to use next.js as a full stack framework for small project.
 
 ## Recent Tech Stack
 
+- Java, SpringBoot
+- AWS
 - Next.js
-- SpringBoot, Firebase
-- AWS, CloudFlare
-
