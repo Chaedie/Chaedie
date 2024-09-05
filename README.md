@@ -12,8 +12,8 @@
 - Bassist
 - Firmware Engineer at Samsung Electronics
 - Manager at a Small electronics manufacturing company
-- Frontend Software Engineer
-- Full Stack Software Engineer
+- Frontend Software Engineer at startup
+- Full Stack Software Engineer at stratup
 
 ## Recent Tech Stack
 
