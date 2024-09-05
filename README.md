@@ -1,11 +1,22 @@
-## Intro
+### Things that I like
 
-Hello, I'm Web dev. I'm working as a Spring Boot backend developer.
+- Refactoring
+- Learning from Failure
+- Issue
+- Co Work
+- Code Review
+- Pair Programing
 
-I prefer to use next.js as a full stack framework for small project.
+### Life that i've lived
 
-## Recent Tech Stack
+- Bassist
+- Firmware Engineer at Samsung Electronics
+- Manager at a Small electronics manufacturing company
+- Frontend Software Engineer
+- Full Stack Software Engineer
 
+### Recent Tech Stack
+
+- JavaScript, TypeScript, React.js, Next.js
 - Java, SpringBoot
 - AWS
-- Next.js
