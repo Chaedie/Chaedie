@@ -1,4 +1,4 @@
-### Things that I like
+## Things that I like
 
 - Refactoring
 - Learning from Failure
@@ -7,7 +7,7 @@
 - Code Review
 - Pair Programing
 
-### Life that i've lived
+## Life that i've lived
 
 - Bassist
 - Firmware Engineer at Samsung Electronics
@@ -15,7 +15,7 @@
 - Frontend Software Engineer
 - Full Stack Software Engineer
 
-### Recent Tech Stack
+## Recent Tech Stack
 
 - JavaScript, TypeScript, React.js, Next.js
 - Java, SpringBoot
