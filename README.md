@@ -1,19 +1,17 @@
 ## Things that I like
 
-- Refactoring
-- Learning from Failure
-- Issue
-- Co Work
-- Code Review
-- Pair Programing
+- Refactoring code to improve quality and readability
+- Learning from failures and turning them into opportunities
+- Tackling challenging issues and finding creative solutions
+- Pair programming for knowledge sharing and faster problem-solving
 
 ## Life that i've lived
 
-- Bassist
-- Firmware Engineer at Samsung Electronics
-- Manager at a Small electronics manufacturing company
-- Frontend Software Engineer at startup
-- Full Stack Software Engineer at stratup
+- Semiconductor Product Engineer at Samsung Electronics
+- Manager at an electronics manufacturing company
+- Full Stack Software Engineer at a stratup
+- Frontend Software Engineer at a startup
+
 
 ## Recent Tech Stack
 
