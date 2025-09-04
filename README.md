@@ -14,4 +14,4 @@ Passionate about **Backend Development**, **Cloud Infrastructure**, and **Open S
 - **Eslint** - [Bug fix](https://github.com/eslint/eslint/pull/18849)
 
 ## 📫 Contact
-- LinkedIn: [Chaedong Im](https://linkedin.com/in/chaedie)  
+- LinkedIn: [Chaedong Im](https://www.linkedin.com/in/chaedong-im-dev)  
