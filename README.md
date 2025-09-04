@@ -6,12 +6,12 @@ Passionate about **Backend Development**, **Cloud Infrastructure**, and **Open S
 ## ⚡ Tech Stack
 - **Languages**: Java, Kotlin, TypeScript  
 - **Backend**: Spring Boot, JPA, QueryDSL
-- **Frontend**: React
-- **Infra / DevOps**: AWS, Docker, Kubernetes, Terraform, Jenkins, ArgoCD
+- **Frontend**: React, Next.js
+- **Infra / DevOps**: some experience with AWS, Docker, Kubernetes, Terraform, Jenkins, ArgoCD
 
 ## 🌱 Open Source Contributions
-- spring-projects/spring-kafka - [Documentation improvement](https://github.com/spring-projects/spring-kafka/pull/4069)
-- eslint/eslint - [Bug fix](https://github.com/eslint/eslint/pull/18849)
+- **Spring Kafka** - [Documentation improvement](https://github.com/spring-projects/spring-kafka/pull/4069)
+- **Eslint** - [Bug fix](https://github.com/eslint/eslint/pull/18849)
 
 ## 📫 Contact
 - LinkedIn: [Chaedong Im](https://linkedin.com/in/chaedie)  
