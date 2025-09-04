@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chaedong Im (Chaedie)
 
-Software Engineer @ Olive Young  
+Software Engineer **@Olive Young**  
 Passionate about **Backend Development**, **Cloud Infrastructure**, and **Open Source**  
 
 ## ⚡ Tech Stack
