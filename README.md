@@ -13,7 +13,7 @@ Passionate about **Backend Development**, **Cloud Infrastructure**, and **Open S
 - **Spring Kafka**
   - [GH-3954: Add warning about @PostConstruct timing with NewTopic beans](https://github.com/spring-projects/spring-kafka/pull/4069)
 - **Eslint**
-  - [Bug fix](https://github.com/eslint/eslint/pull/18849)
+  - [feat: limit namespace import identifier in id-length rule](https://github.com/eslint/eslint/pull/18849)
 
 ## 📫 Contact
 - LinkedIn: [Chaedong Im](https://www.linkedin.com/in/chaedong-im-dev)  
